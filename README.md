@@ -33,6 +33,7 @@ Developer with about 1.5 years of backend development experience.
 
 #### JS-frameworks
 * jQuery
+* Vue.js
 
 #### Data storages
 * MSSQL
@@ -51,11 +52,15 @@ Developer with about 1.5 years of backend development experience.
 
 ### Workflow system (2017-2019)
 Role: Developer.
-Task performed: 
 ASP.NET MVC, web-services, windows-services  
-C#, MSSQL
+C#, JS, MSSQL, HTML, CSS, Duo, Xslt
 
 ### Document flow system (2018-2019)
 Role: Developer.  
 ASP.NET Web Forms, .NET Windows Forms, web-services, windows-services  
 C#, MSSQL, Elastic search, WCF
+
+### Stock market 2019
+Role: Developer.
+ASP.NET Core 2.2
+C#, PostgreSql, EntityFramework Core, Autofac, HttpClient
