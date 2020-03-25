@@ -1,11 +1,11 @@
 # Ildar Vazetdinov
 
-Developer with about 1.5 years of backend development experience.
+Developer with about 2.5 years of backend development experience.
 
 ## Languages
 
 * Russian (native)
-* English (intermediate)
+* English (B1)
 
 ## Technical skills
 
@@ -34,8 +34,10 @@ Developer with about 1.5 years of backend development experience.
 #### JS-frameworks
 * jQuery
 * Vue.js
+* ExtJs
 
 #### Data storages
+* PostgreSQL
 * MSSQL
 * ElasticSearch
 
@@ -60,7 +62,12 @@ Role: Developer.
 ASP.NET Web Forms, .NET Windows Forms, web-services, windows-services  
 C#, MSSQL, Elastic search, WCF
 
-### Stock market 2019
+### Stock market (2019-2020)
 Role: Developer.  
 ASP.NET Core 2.2  
 C#, PostgreSql, EntityFramework Core, Autofac, HttpClient  
+
+### BI System 
+Role: Developer.
+ASP.NET MVC
+C#, JavaScript (ExtJs), PostgreSQL (EntityFramework, SQL queries), Windsor Container, Olap
