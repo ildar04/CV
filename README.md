@@ -51,6 +51,8 @@ Full Stack разработчик с опытом работы около 2.5 л
 
 ## Предыдущие проекты
 
+## Центр высоких технологий (с 09.17 по 08.19)
+
 ### Workflow система (2017-2019)
 Role: Разработчик.  
 ASP.NET MVC, web-services, windows-services  
@@ -61,10 +63,12 @@ Role: Разработчик.
 ASP.NET Web Forms, .NET Windows Forms, web-services, windows-services  
 C#, MSSQL, Elastic search, WCF
 
-### Биржевой рынок (2019-2020)
+### Биржевой рынок (2019)
 Role: Разработчик.  
 ASP.NET Core 2.2  
 C#, PostgreSql, EntityFramework Core, Autofac, HttpClient  
+
+## БАРС Груп (с 09.19 по настоящее время)
 
 ### BI система 
 Role: Разработчик.
