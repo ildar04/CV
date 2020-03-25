@@ -46,15 +46,15 @@ C#, JS, MSSQL, HTML, CSS, Duo, Xslt
 ASP.NET Web Forms, .NET Windows Forms, web-services, windows-services  
 C#, MSSQL, Elastic search, WCF
 
-#### Биржевой рынок (2019) 
-Роль: Разработчик. 
-ASP.NET Core 2.2 
+#### Биржевой рынок (2019)
+Роль: Разработчик.  
+ASP.NET Core 2.2
 C#, PostgreSql, EntityFramework Core, Autofac, HttpClient 
 
 ---
 
 #### БАРС Груп (с 09.19 по настоящее время)
-#### BI система 
-Роль: Разработчик.
-ASP.NET MVC
+#### BI система (с 2019)
+Роль: Разработчик.  
+ASP.NET MVC  
 C#, JavaScript (ExtJs), PostgreSQL (EntityFramework, SQL запросы), Windsor Container, Olap
