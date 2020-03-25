@@ -1,27 +1,27 @@
-# Ildar Vazetdinov
+# Ильдар Вазетдинов
 
-Developer with about 2.5 years of backend development experience.
+Full Stack разработчик с опытом работы около 2.5 лет.
 
-## Languages
+## Языки
 
 * Russian (native)
 * English (B1)
 
-## Technical skills
+## Технические знания
 
-### Programming languages
+### Языки программирования
 
 * C#
 * JavaScript
 
-### Technologies
+### Технологии
 
-#### Web applications
+#### Веб-приложения
 
 * ASP.NET MVC
 * ASP.NET Core
 
-#### Web services
+#### Веб-сервисы
 * REST
 * SOAP
 * WCF
@@ -31,43 +31,42 @@ Developer with about 2.5 years of backend development experience.
 * Entity Framework
 * Dapper
 
-#### JS-frameworks
+#### JavaScript фреймворки
 * jQuery
 * Vue.js
 * ExtJs
 
-#### Data storages
+#### Хранилища данных
 * PostgreSQL
 * MSSQL
 * ElasticSearch
 
-#### Other
+#### Другое
 * git
 * Docker
 * Automapper
-* ELK
 * IoC
 * HTML
 * CSS
 
-## Previous projects (relevant)
+## Предыдущие проекты
 
-### Workflow system (2017-2019)
-Role: Developer.  
+### Workflow система (2017-2019)
+Role: Разработчик.  
 ASP.NET MVC, web-services, windows-services  
 C#, JS, MSSQL, HTML, CSS, Duo, Xslt  
 
-### Document flow system (2018-2019)
-Role: Developer.  
+### Система документооборота (2018-2019)
+Role: Разработчик.  
 ASP.NET Web Forms, .NET Windows Forms, web-services, windows-services  
 C#, MSSQL, Elastic search, WCF
 
-### Stock market (2019-2020)
-Role: Developer.  
+### Биржевой рынок (2019-2020)
+Role: Разработчик.  
 ASP.NET Core 2.2  
 C#, PostgreSql, EntityFramework Core, Autofac, HttpClient  
 
-### BI System 
-Role: Developer.
+### BI система 
+Role: Разработчик.
 ASP.NET MVC
-C#, JavaScript (ExtJs), PostgreSQL (EntityFramework, SQL queries), Windsor Container, Olap
+C#, JavaScript (ExtJs), PostgreSQL (EntityFramework, SQL запросы), Windsor Container, Olap
