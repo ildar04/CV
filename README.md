@@ -48,7 +48,7 @@ C#, MSSQL, Elastic search, WCF
 
 #### Биржевой рынок (2019)
 Роль: Разработчик.  
-ASP.NET Core 2.2
+ASP.NET Core 2.2  
 C#, PostgreSql, EntityFramework Core, Autofac, HttpClient 
 
 ---
