@@ -4,55 +4,38 @@ Full Stack разработчик с опытом работы около 2.5 л
 
 ## Языки
 
-* Russian (native)
-* English (B1)
+* Русский (родной), Английский (B1)
 
 ## Технические знания
 
 ### Языки программирования
 
-* C#
-* JavaScript
+* C#, JavaScript
 
 ### Технологии
 
 #### Веб-приложения
 
-* ASP.NET MVC
-* ASP.NET Core
+* ASP.NET MVC, ASP.NET Core
 
 #### Веб-сервисы
-* REST
-* SOAP
-* WCF
-* Web Api
+* REST, SOAP, WCF, Web Api
 
 #### ORM
-* Entity Framework
-* Dapper
+* Entity Framework, Dapper
 
 #### JavaScript фреймворки
-* jQuery
-* Vue.js
-* ExtJs
+* jQuery, Vue.js, ExtJs
 
 #### Хранилища данных
-* PostgreSQL
-* MSSQL
-* ElasticSearch
+* PostgreSQL, MSSQL, ElasticSearch
 
 #### Другое
-* git
-* Docker
-* Automapper
-* IoC
-* HTML
-* CSS
+* git, Docker, Automapper, IoC, HTML, CSS
 
 ## Предыдущие проекты
 
-### Центр высоких технологий (с 09.17 по 08.19)
-
+#### Центр высоких технологий (с 09.17 по 08.19)
 #### Workflow система (2017-2019)
 Роль: Разработчик.  
 ASP.NET MVC, web-services, windows-services  
@@ -67,9 +50,9 @@ C#, MSSQL, Elastic search, WCF
 Роль: Разработчик.  
 ASP.NET Core 2.2  
 C#, PostgreSql, EntityFramework Core, Autofac, HttpClient  
+---
 
-### БАРС Груп (с 09.19 по настоящее время)
-
+#### БАРС Груп (с 09.19 по настоящее время)
 #### BI система 
 Роль: Разработчик.
 ASP.NET MVC
